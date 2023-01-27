@@ -7,6 +7,7 @@
 ## Basic Requirements
 
 Get access token for Twitter API https://developer.twitter.com/en/docs/twitter-api
+https://developer.twitter.com/en/portal/products/essential
 
 Create .env file and define variables
 
